@@ -1,8 +1,8 @@
-﻿# Admin
+# Admin
 
-Planejamento e acompanhamento dos estudos.
+Documentos de organização do plano de estudos.
 
-## Arquivos
-- roadmap.md
-- weekly-plan.md
-- progress-log.md
+- Currículo (o que estudar): [study-curriculum.md](./study-curriculum.md)
+- Rotina semanal (quando estudar): [weekly-routine.md](./weekly-routine.md)
+- Revisão semanal (como medir progresso): [weekly-review.md](./weekly-review.md)
+- Log (opcional): [progress-log.md](./progress-log.md)
